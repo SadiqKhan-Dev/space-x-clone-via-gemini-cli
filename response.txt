@@ -1,0 +1,1 @@
+I cannot directly clear your terminal. My actions are limited to interacting with the file system and running shell commands within the project directory. You would need to use your terminal's specific command to clear its output (e.g., `cls` on Windows or `clear` on Linux/macOS).
